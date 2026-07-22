@@ -46,3 +46,9 @@ The dataset includes the following features:
 ## 📈 Results
 
 ### ✅ Accuracy : 0.9788732394366197
+
+
+### 🔹 Confusion Matrix
+
+<img width="1410" height="1266" alt="Screenshot 2026-07-22 221005" src="https://github.com/user-attachments/assets/afc743e9-c3ae-4b53-bdc5-5a326f519be6" />
+
