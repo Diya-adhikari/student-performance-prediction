@@ -1,14 +1,13 @@
 # 📊 Student Performance Prediction System
 
-A machine learning project that predicts student performance (Pass/Fail) based on study hours, attendance, past exam scores, parental education level, internet access, and extracurricular activities.  
-This project uses **Logistic Regression** for classification and demonstrates preprocessing, model training, and evaluation with detailed metrics.
+A machine learning project that predicts student performance (Pass/Fail) using study hours, attendance, past exam scores, parental education level, internet access, and extracurricular activities.  
+This project leverages **Logistic Regression** for classification and demonstrates preprocessing, model training, and evaluation with detailed metrics.
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Files
 - `stu.ipynb` → Jupyter Notebook containing the full workflow
 - `student_performance_dataset.csv` → Dataset used for training and testing
-- Outputs → Confusion Matrix, Classification Report, Accuracy Score
 
 ---
 
@@ -46,13 +45,4 @@ The dataset includes the following features:
 
 ## 📈 Results
 
-### ✅ Accuracy :  0.9788732394366197
-
-
-### 🔹 Confusion Matrix
-Predicted
-Fail   Pass
-Actual
-Fail        69      2
-Pass         1     70
-
+### ✅ Accuracy : 0.9788732394366197
