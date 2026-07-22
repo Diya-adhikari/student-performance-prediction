@@ -39,6 +39,9 @@ The dataset includes the following features:
    - Confusion Matrix
    - Classification Report
    - Accuracy Score
+   - Precision
+   - Recall
+   - F1-Score
 
 ---
 
