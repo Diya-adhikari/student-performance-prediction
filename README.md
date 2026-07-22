@@ -6,8 +6,7 @@ This project leverages **Logistic Regression** for classification and demonstrat
 ---
 
 ## 📂 Project Files
-- `stu.ipynb` → Jupyter Notebook containing the full workflow
-- `student_performance_dataset.csv` → Dataset used for training and testing
+- `stu.ipynb` → Jupyter Notebook containing the full workflow 
 
 ---
 
